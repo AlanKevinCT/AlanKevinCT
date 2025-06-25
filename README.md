@@ -19,3 +19,7 @@
 [![](https://visitcount.itsvg.in/api?id=AlanKevinCT&icon=2&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+### I love music, I'm Listening:
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=3134iqgyq77hutemhdzodwqejcce&cover_image=true&theme=compact&show_offline=true&background_color=4a2c63&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=3134iqgyq77hutemhdzodwqejcce&redirect=true)
+
