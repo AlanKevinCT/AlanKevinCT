@@ -3,34 +3,62 @@
 
 ---
 
-## 💻 Programming Languages
+<details>
+<summary>📌 About Me</summary>
 
+- 🎓 Actualmente cursando 5° semestre en Ciencias de la Computación
+- 📚 Tomando cursos adicionales en:
+  - Desarrollo Fullstack (React + Django)
+  - Machine Learning básico
+  - Diseño de bases de datos relacionales
+- 🎸 Músico aficionado (guitarra y piano)
+- 🌍 Interesado en tecnologías para impacto social
+- 🏆 Participante en hackathones universitarios
+
+</details>
+
+## 🌟 Personal Skills
+- ✅ Responsabilidad en proyectos académicos y personales
+- 🤝 Amabilidad y trabajo en equipo
+- 🔄 Adaptabilidad a nuevos entornos tecnológicos
+- 🧠 Pensamiento analítico para resolver problemas
+- 📅 Gestión efectiva del tiempo
+
+---
+
+## 🛠 Skills
+
+### Programming Languages
 | Language | Badge | Specialization |
 |----------|-------|---------------|
-| **C#** | ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white) | Desarrollo de aplicaciones desktop con .NET, ASP.NET Core |
-| **Python** | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | Scripting, Django/Flask, Análisis de datos, Automatización |
-| **Java** | ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) | Aplicaciones empresariales, JavaFX, Spring Boot |
-| **C++** | ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white) | Algoritmos, Estructuras de datos, Programación de sistemas |
-| **JavaScript** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) | Desarrollo web (React), Node.js, Aplicaciones interactivas |
-
-## 🛠 Tech Stack
+| **C#** | ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white) | Desarrollo de aplicaciones desktop con .NET |
+| **Python** | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | Django/Flask, Análisis de datos |
+| **Java** | ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) | Aplicaciones empresariales, JavaFX |
+| **C++** | ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white) | Algoritmos y estructuras de datos |
+| **JavaScript** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) | Desarrollo web con React |
 
 ### Frameworks & Libraries
-![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![.NET](https://img.shields.io/badge/.NET-512BD4?logo=.net&logoColor=white)
-![JavaFX](https://img.shields.io/badge/JavaFX-FF0000?logo=javafx&logoColor=white)
+| Technology | Badge | Use Case |
+|------------|-------|----------|
+| **Django** | ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white) | Desarrollo backend robusto |
+| **React** | ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) | Interfaces de usuario modernas |
+| **.NET** | ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=.net&logoColor=white) | Aplicaciones Windows empresariales |
+| **JavaFX** | ![JavaFX](https://img.shields.io/badge/JavaFX-FF0000?logo=javafx&logoColor=white) | Interfaces gráficas en Java |
 
 ### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
+| Database | Badge | Experience |
+|----------|-------|------------|
+| **MySQL** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) | Diseño y optimización de bases de datos |
+| **MariaDB** | ![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white) | Alternativa ligera para aplicaciones web |
+| **SQLite** | ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white) | Bases de datos embebidas |
 
 ### Tools
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white)
+| Tool | Badge | Usage |
+|------|-------|-------|
+| **VS Code** | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white) | Editor principal para desarrollo |
+| **Git** | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) | Control de versiones en proyectos |
+| **LaTeX** | ![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white) | Documentación técnica y académica |
+| **Notion** | ![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white) | Organización personal y de proyectos |
 
 ---
 
