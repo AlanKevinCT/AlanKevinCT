@@ -13,6 +13,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanKevinCT&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
+### 🏆 Top Project Contribution
+[![BudgetMate](https://github-readme-stats.vercel.app/api/pin/?username=aricc24&repo=BudgetMate&theme=synthwave)](https://github.com/aricc24/BudgetMate)
 ![](https://github-contributor-stats.vercel.app/api?username=AlanKevinCT&limit=5&theme=synthwave&combine_all_yearly_contributions=true)
 
 ---
