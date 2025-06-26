@@ -1,4 +1,4 @@
-# <img src="https://i.imgur.com/3ZQ7Z4j.gif" width="32" height="32" alt="pixel duck"> Alan Kevin Cano Tenorio  
+# Alan Kevin Cano Tenorio  
 **Estudiante de Ciencias de la Computación** | UNAM (5° semestre)  
 
 ---
