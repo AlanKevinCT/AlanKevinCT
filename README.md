@@ -17,16 +17,19 @@
 
 </details>
 
-## 🌟 Personal Skills
+<details>
+<summary>🌟 Personal Skills</summary>
+
 - ✅ Responsabilidad en proyectos académicos y personales
 - 🤝 Amabilidad y trabajo en equipo
 - 🔄 Adaptabilidad a nuevos entornos tecnológicos
 - 🧠 Pensamiento analítico para resolver problemas
 - 📅 Gestión efectiva del tiempo
 
----
+</details>
 
-## 🛠 Skills
+<details>
+<summary>🛠 Skills</summary>
 
 ### Programming Languages
 | Language | Badge | Specialization |
@@ -60,28 +63,32 @@
 | **LaTeX** | ![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white) | Documentación técnica y académica |
 | **Notion** | ![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white) | Organización personal y de proyectos |
 
----
+</details>
 
 <details>
-<summary>💼 My Work Projects (Click to expand)</summary>
+<summary>💼 My Work Projects</summary>
 
 | Project | Skills Used | Description |
 |---------|-------------|-------------|
-| **[BudgetMate](https://github.com/aricc24/BudgetMate)** | Django, Python, MySQL, React, JavaScript | Sistema completo de gestión presupuestal con autenticación, gráficos y análisis de gastos |
-| **Scientific Calculator** | Java, JavaFX, CSS | Calculadora con funciones matemáticas avanzadas e interfaz gráfica personalizable |
-| **Todo-App** | Flask, Python, SQLite | Aplicación web para gestión de tareas con sistema de prioridades |
+| **[BudgetMate](https://github.com/aricc24/BudgetMate)** | Django, Python, MySQL, React, JavaScript | Sistema completo de gestión presupuestal |
+| **Scientific Calculator** | Java, JavaFX, CSS | Calculadora con funciones avanzadas |
+| **Todo-App** | Flask, Python, SQLite | Gestión de tareas con prioridades |
+
+</details>
+
+<details>
+<summary>📊 GitHub Stats</summary>
+
+![](https://github-readme-stats.vercel.app/api?username=AlanKevinCT&show_icons=true&theme=radical&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanKevinCT&layout=compact&theme=radical&hide_border=true)
 
 </details>
 
 ---
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=AlanKevinCT&show_icons=true&theme=radical&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanKevinCT&layout=compact&theme=radical&hide_border=true)
+## 🎵 I really like music 😊  
+currently jamming to  
 
----
-
-## 🎵 Currently Listening  
 [![Spotify](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=3134iqgyq77hutemhdzodwqejcce&cover_image=true&theme=novatorem&bar_color=53b14f)](https://open.spotify.com/user/3134iqgyq77hutemhdzodwqejcce)
 
 [![Visits](https://visitcount.itsvg.in/api?id=AlanKevinCT&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
