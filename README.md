@@ -19,5 +19,5 @@
 [![](https://visitcount.itsvg.in/api?id=AlanKevinCT&icon=2&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=3134iqgyq77hutemhdzodwqejcce&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=3134iqgyq77hutemhdzodwqejcce&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true)]]
+### I Love Music, Now I'm Listening:
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=3134iqgyq77hutemhdzodwqejcce&cover_image=true&theme=default)](https://open.spotify.com/user/3134iqgyq77hutemhdzodwqejcce)
