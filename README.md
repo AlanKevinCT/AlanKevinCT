@@ -77,7 +77,9 @@
 | **LaTeX**       | ![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white)                    | Academic Documentation        |
 | **Notion**      | ![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white)                 | Project Organization          |
 | **Excel**       | ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)          | Data Analysis & Visualization |
-
+| Logisim
+| UML Editor
+| PicsArt photo editor
 
 
 #### **Build Systems**  
