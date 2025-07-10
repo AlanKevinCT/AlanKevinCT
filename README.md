@@ -35,43 +35,48 @@
 <details>
 <summary>🛠 Hard Skills</summary>
 
-### Programming Languages
-| Language | Badge | Level | | Especialitation
-|----------|-------|---------------|
-| **Java** | ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) | Intermidate |
-| **JavaScript** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) | Intermidate | Desarrollo web con React |
-| **Python** | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | Intermidate | Django/Flask, Análisis de datos |
-| **C#** | ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white) | Intermidate | Desarrollo de aplicaciones desktop con .NET |
-| **C++** | ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white) | Intermidate | Algoritmos y estructuras de datos |
-| **Haskell** | ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white) | Basic | Algoritmos y estructuras de datos |
-| **Prolog** | ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white) | Basic | Algoritmos y estructuras de datos |
-| **Assembly** | ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white) | Basic | Algoritmos e interprete |
+### 🛠 Technical Skills  
 
-### Frameworks & Libraries
-| Technology | Badge | Use Case |
-|------------|-------|----------|
-| **Django** | ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white) | Desarrollo backend robusto |
-| **React** | ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) | Interfaces de usuario modernas |
-| **.NET** | ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=.net&logoColor=white) | Aplicaciones Windows empresariales |
-| **JavaFX** | ![JavaFX](https://img.shields.io/badge/JavaFX-FF0000?logo=javafx&logoColor=white) | Interfaces gráficas en Java |
+#### **Programming Languages**  
+| Language       | Badge                                                                                          | Level        | Specialization                     |
+|----------------|------------------------------------------------------------------------------------------------|--------------|------------------------------------|
+| **Java**       | ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)                 | Intermediate | OOP, Algorithms                   |
+| **JavaScript** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  | Intermediate | Web Dev (React)                   |
+| **Python**     | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)              | Intermediate | Django/Flask, Data Analysis       |
+| **C#**         | ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)                   | Intermediate | Desktop Apps (.NET)               |
+| **C++**        | ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)                   | Intermediate | Data Structures                   |
+| **Haskell**    | ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?logo=haskell&logoColor=white)           | Basic        | Functional Programming            |
+| **Prolog**     | ![Prolog](https://img.shields.io/badge/Prolog-000000?logo=prolog&logoColor=white)*             | Basic        | Logic Programming                 |
+| **Assembly**   | ![Assembly](https://img.shields.io/badge/Assembly-000000?logo=assemblyscript&logoColor=white)* | Basic        | Low-level Algorithms              |
 
-### Databases
-| Database | Badge | Experience |
-|----------|-------|------------|
-| **MySQL** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) | Diseño y optimización de bases de datos |
-| **MariaDB** | ![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white) | Alternativa ligera para aplicaciones web |
-| **SQLite** | ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white) | Bases de datos embebidas |
+> *Note: Prolog/Assembly badges are custom (no official shield.io logo).  
 
-### Tools
-| Tool | Badge | Usage |
-|------|-------|-------|
-| **VS Code** | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white) | Editor principal para desarrollo |
-| **Linux terminal** | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white) |  |
-| **Git** | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) | Control de versiones en proyectos |
-| **GitHub** | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) | Control de versiones en proyectos |
-| **LaTeX** | ![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white) | Documentación técnica y académica |
-| **Notion** | ![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white) | Organización personal y de proyectos |
-| **Excel** | ![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white) | Organización personal y de proyectos |
+#### **Frameworks & Libraries**  
+| Technology | Badge                                                                                    | Use Case                     |
+|------------|------------------------------------------------------------------------------------------|------------------------------|
+| **Django** | ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)        | Backend Development          |
+| **React**  | ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)           | Frontend Interfaces          |
+| **.NET**   | ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=.net&logoColor=white)              | Windows Applications         |
+| **JavaFX** | ![JavaFX](https://img.shields.io/badge/JavaFX-FF0000?logo=javafx&logoColor=white)*       | Java GUIs                    |
+
+> *JavaFX uses a custom badge (not official in shields.io).  
+
+#### **Databases**  
+| Database   | Badge                                                                                      | Experience                  |
+|------------|--------------------------------------------------------------------------------------------|-----------------------------|
+| **MySQL**  | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)             | Database Design             |
+| **MariaDB**| ![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)       | Lightweight Web Apps        |
+| **SQLite** | ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)          | Embedded Systems            |
+
+#### **Tools & Platforms**  
+| Tool            | Badge                                                                                              | Usage                          |
+|-----------------|----------------------------------------------------------------------------------------------------|--------------------------------|
+| **VS Code**     | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)    | Primary Code Editor            |
+| **Linux Terminal** | ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)                  | Scripting & Development        |
+| **Git/GitHub**  | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)                          | Version Control               |
+| **LaTeX**       | ![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white)                    | Academic Documentation        |
+| **Notion**      | ![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white)                 | Project Organization          |
+| **Excel**       | ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)          | Data Analysis & Visualization |
 
 </details>
 
